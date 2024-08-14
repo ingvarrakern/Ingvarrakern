@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display: flex; justify-content: space-between;">
-    <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=ingvarrakern&hide_border=true&theme=tokyonight" /> 
+    <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=ingvarrakern&hide_border=true&theme=tokyonight" style="margin-right: 10px;" /> 
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ingvarrakern&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=tokyonight" />
 </div>
 
