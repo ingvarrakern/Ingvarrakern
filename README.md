@@ -1,8 +1,5 @@
 ## Hi there 👋
-<
-![Snake animation]
-(https://raw.githubusercontent.com/ingvarrakern/Ingvarrakern/output/github-contribution-grid-snake.svg)
-/>
+
 <!--
 **ingvarrakern/Ingvarrakern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
